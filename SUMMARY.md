@@ -10,7 +10,7 @@
 
 * [2.1 后端整体设计](di-er-bu-fen-fu-wu-qi/2.1-server-arch-1.md)
 * [2.2 数据库设计](di-er-bu-fen-fu-wu-qi/2.1-db-design.md)
-* [2.3 组件模块](di-er-bu-fen-fu-wu-qi/2.3-component-module.md)
+* [2.3 组件初始化模块](di-er-bu-fen-fu-wu-qi/2.3-component-module.md)
 * [2.4 定时任务模块](di-er-bu-fen-fu-wu-qi/2.4-timer-module.md)
 * [2.5 接口模块](di-er-bu-fen-fu-wu-qi/2.5-api-module.md)
 * [2.6 模型模块](di-er-bu-fen-fu-wu-qi/2.6-model-module.md)
