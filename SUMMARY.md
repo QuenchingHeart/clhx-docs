@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [淬炼红心小程序文档](README.md)
 
 ## 第一部分 - 微信小程序客户端
 
