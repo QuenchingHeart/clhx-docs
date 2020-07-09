@@ -5,9 +5,9 @@
 ## 第一部分 - 微信小程序客户端
 
 * [1.1 开发环境](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.2-develop-environment.md)
-* [1.3 页面功能](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.3-page-function.md)
-* [1.4 工具模块](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.4-tool-module.md)
-* [1.5 页面模块](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.5-page-module.md)
+* [1.2 页面功能](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.3-page-function.md)
+* [1.3 工具模块](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.4-tool-module.md)
+* [1.4 页面模块](di-yi-bu-fen-wei-xin-xiao-cheng-xu-ke-hu-duan/1.5-page-module.md)
 
 ## 第二部分 - 后端设计 <a id="di-er-bu-fen-fu-wu-qi"></a>
 
